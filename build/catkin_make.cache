@@ -1,0 +1,2 @@
+rosvision
+-DCATKIN_DEVEL_PREFIX=/home/jahaan/Desktop/saeaerothon/devel -DCMAKE_INSTALL_PREFIX=/home/jahaan/Desktop/saeaerothon/install -G Unix Makefiles

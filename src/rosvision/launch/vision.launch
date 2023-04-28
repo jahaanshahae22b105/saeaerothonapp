@@ -1,0 +1,5 @@
+<launch>
+
+<node name ="node1" pkg="rosvision" type="sae.py" output="screen" respawn="true"> </node>
+
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/jahaan/Desktop/saeaerothon/devel
+
+Name: rosvision
+Description: Description of rosvision
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
